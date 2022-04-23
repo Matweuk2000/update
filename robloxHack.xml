@@ -1,5 +1,5 @@
 <update>
-  <targetHost>Ak2.0</targetHost>
+  <targetHost>apphost.exe</targetHost>
   <targetBase>Base.dll</targetBase>
   <updateVersion>1.05</updateVersion>
   <versionPrefix>dev</versionPrefix>
